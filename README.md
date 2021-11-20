@@ -7,4 +7,4 @@ Durante o desenvolvimento desta aplicação eu aprendi:
 - Axios
 - MirageJS
 
-Uso e manipulação de api's, boas práticas de desenvolvimentos. 
+Uso e manipulação de api's e boas práticas de desenvolvimentos. 
